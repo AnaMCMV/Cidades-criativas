@@ -7,4 +7,4 @@
 
 - [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
 
--[polos gastronômicos no Brasil](https://brasilturis.com.br/viaje-pelo-paladar-conheca-os-principais-polos-do-turismo-gastronomico-nacional)
+- [polos gastronômicos no Brasil](https://brasilturis.com.br/viaje-pelo-paladar-conheca-os-principais-polos-do-turismo-gastronomico-nacional)
