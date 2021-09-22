@@ -9,4 +9,4 @@
 
 - [polos gastronômicos no Brasil](https://brasilturis.com.br/viaje-pelo-paladar-conheca-os-principais-polos-do-turismo-gastronomico-nacional)
 
-  - [Turismo Gastronômico na Região Norte](https://www.fazfacil.com.br/lazer/turismo-gastronomico-norte/)
+- [Turismo Gastronômico na Região Norte](https://www.fazfacil.com.br/lazer/turismo-gastronomico-norte/)
