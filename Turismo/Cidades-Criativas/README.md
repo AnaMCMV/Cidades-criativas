@@ -4,3 +4,5 @@
 ### Links:
 
 - [As Cidades Criativas da Gastronomia da UNESCO](https://foodandroad.com/pt-br/cidades-criativas-gastronomia-unesco/)
+
+- [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
