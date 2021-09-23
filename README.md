@@ -6,7 +6,7 @@
 
 - [Antropologia e Cultura](Turismo/Antropologia-e-cultura/)
 - [Cerimonial Protocolo e Eventos](Turismo/Cerimonial-protocolo-e-eventos/)
-- [Cidades Criativas](Turismo/Cidades-criativas/)
+- [Cidades Criativas](Turismo/Cidades-Criativas/)
 - [Espanhol](Turismo/Espanhol/)
 - [Geografia e Cartografia](Turismo/Gegrafia-e-cartografia/)
 - [História da Arte](Turismo/História-da-arte/)
