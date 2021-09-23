@@ -4,18 +4,18 @@
   <img height="120px" src="https://pbs.twimg.com/profile_images/684904010323750913/6PpT2k37_400x400.jpg" alt="logo turismo cefet">
 </p>
 
-- [Antropologia e Cultura](/Antropologia-e-cultura/)
-- [Cerimonial Protocolo e Eventos](/Cerimonial-protocolo-e-eventos/)
-- [Cidades Criativas](Cidades-criativas/)
-- [Espanhol](/Espanhol/)
-- [Geografia e Cartografia](Gegrafia-e-cartografia/)
-- [História da Arte](História-da-arte/)
-- [Inglês](/Inglês/)
-- [Parques Nacionais](/Parques-nacionais/)
-- [Planejamento Urbano](/Planejamento-urbano/)
-- [Recreação](/Recreação/)
-- [Teoria Turística](/Teoria-turística/)
-- [Transportes](/Transportes/)
-- [Turismo No Meio Rural](/Turismo-no-meio-rural/)
+- [Antropologia e Cultura](Turismo/Antropologia-e-cultura/)
+- [Cerimonial Protocolo e Eventos](Turismo/Cerimonial-protocolo-e-eventos/)
+- [Cidades Criativas](Turismo/Cidades-criativas/)
+- [Espanhol](Turismo/Espanhol/)
+- [Geografia e Cartografia](Turismo/Gegrafia-e-cartografia/)
+- [História da Arte](Turismo/História-da-arte/)
+- [Inglês](Turismo/Inglês/)
+- [Parques Nacionais](Turismo/Parques-nacionais/)
+- [Planejamento Urbano](Turismo/Planejamento-urbano/)
+- [Recreação](Turismo/Recreação/)
+- [Teoria Turística](Turismo/Teoria-turística/)
+- [Transportes](Turismo/Transportes/)
+- [Turismo No Meio Rural](Turismo/Turismo-no-meio-rural/)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
