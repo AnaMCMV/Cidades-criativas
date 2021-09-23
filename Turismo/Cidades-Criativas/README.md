@@ -12,3 +12,5 @@
 - [Turismo Gastronômico na Região Norte](https://www.fazfacil.com.br/lazer/turismo-gastronomico-norte/)
 
 - [Festivl de Parintins](https://www.festivaldeparintins.com.br/blog/gastronomia/)
+
+- [Orientações do trabalho](https://cefetrjbr.sharepoint.com/:w:/r/sites/Section_122086/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B3d6b4a83-94aa-4dcb-a974-f209d555fa8c%7D)
