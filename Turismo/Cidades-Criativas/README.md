@@ -16,6 +16,8 @@
 
 - [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
 
+- [Dossês cidades criativas brasileiras](http://observagastronomia.com.br/dossies-de-candidaturas/)
+
 - [Paraty como cidade criativa](https://www.paraty.rj.gov.br/paraty-cidade-gastronomica)
 
 - [Orientações do trabalho](https://cefetrjbr.sharepoint.com/:w:/r/sites/Section_122086/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B3d6b4a83-94aa-4dcb-a974-f209d555fa8c%7D)
