@@ -27,3 +27,4 @@
 - [Paraty como cidade criativa](https://www.paraty.rj.gov.br/paraty-cidade-gastronomica)
 
 - [Textos que podem ser úteis](http://observagastronomia.com.br/publicacoes/academicas/)
+- [Dissertação que conceitua a rede das cidades criativas](https://repositorio.bc.ufg.br/tede/bitstream/tede/7795/5/Disserta%C3%A7%C3%A3o%20-%20Victor%20Moura%20Soares%20Ferreira%20-%202017.pdf)
