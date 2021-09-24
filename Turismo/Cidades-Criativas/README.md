@@ -8,8 +8,8 @@
 
 - [Cidades criativas- Perspectivas](https://garimpodesolucoes.com.br/wp-content/uploads/2014/09/Livro_Cidades_Criativas_Perspectivas_v1.pdf)
 
-
 - [As Cidades Criativas da Gastronomia da UNESCO](https://foodandroad.com/pt-br/cidades-criativas-gastronomia-unesco/)
+- [Mapa do Turismo](http://www.mapa.turismo.gov.br/mapa/init.html#/home)
 
 - [Polos gastronômicos no Brasil](https://brasilturis.com.br/viaje-pelo-paladar-conheca-os-principais-polos-do-turismo-gastronomico-nacional)
 
