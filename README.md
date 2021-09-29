@@ -13,7 +13,7 @@
 - [História da Arte](Turismo/História-da-arte/)
 - [Inglês](Turismo/Inglês/)
 - [Parques Nacionais](Turismo/Parques-nacionais/)
-- [Planejamento-e-organização-do-turismo](Turismo/Planejamento-e-organização-do-turismo)
+- [Planejamento e organização do turismo](Turismo/Planejamento-e-organização-do-turismo)
 - [Planejamento Urbano](Turismo/Planejamento-urbano/)
 - [Projeto-integrador](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Projeto-integrador)
 - [Recreação](Turismo/Recreação/)
