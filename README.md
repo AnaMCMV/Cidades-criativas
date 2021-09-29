@@ -9,7 +9,7 @@
 - [Cidades Criativas](Turismo/Cidades-Criativas/)
 - [Espanhol](Turismo/Espanhol/)
 - [Geografia e Cartografia](Turismo/Gegrafia-e-cartografia/)
-- [Gestão-de-bares-e-restaurantes](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Gestão-de-bares-e-restaurantes)
+- [Gestão de bares e restaurantes](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Gestão-de-bares-e-restaurantes)
 - [História da Arte](Turismo/História-da-arte/)
 - [Inglês](Turismo/Inglês/)
 - [Parques Nacionais](Turismo/Parques-nacionais/)
