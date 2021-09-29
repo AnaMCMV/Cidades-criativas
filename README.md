@@ -7,8 +7,9 @@
 - [Antropologia e Cultura](Turismo/Antropologia-e-cultura/)
 - [Cerimonial Protocolo e Eventos](Turismo/Cerimonial-protocolo-e-eventos/)
 - [Cidades Criativas](Turismo/Cidades-Criativas/)
-- [Cultura Maori](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Cultura-Maori)
+- 
 - [Espanhol](Turismo/Espanhol/)
+- [Estereótipos-Indianos](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Estere%C3%B3tipos-Indianos)
 - [Geografia e Cartografia](Turismo/Gegrafia-e-cartografia/)
 - [Gestão de bares e restaurantes](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Gestão-de-bares-e-restaurantes)
 - [História da Arte](Turismo/História-da-arte/)
