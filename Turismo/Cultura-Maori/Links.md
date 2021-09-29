@@ -1,2 +1,3 @@
 - [CULTURA MĀORI](https://www.newzealand.com/br/maori-culture/)
-- [https://www.hotcourses.com.br/study-in-new-zealand/once-you-arrive/a-cultura-maori-da-nova-zelandia/]
+- https://www.hotcourses.com.br/study-in-new-zealand/once-you-arrive/a-cultura-maori-da-nova-zelandia/
+
