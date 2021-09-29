@@ -1,1 +1,4 @@
 - [Os estereótipos nos filmes de Hollywood e por que eles distorcem a visão real do mundo](https://rollingstone.uol.com.br/noticia/os-estereotipos-nos-filmes-de-hollywood-e-por-que-eles-distorcem-visao-real-do-mundo-analise/)
+- [Minha experiência na Índia: estereótipos x realidade](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-na-%C3%ADndia-estere%C3%B3tipos-x-realidade-felipe/?originalSubdomain=pt)
+- [10 Estereótipos que todos indianos odeiam](https://por.worldtourismgroup.com/10-stereotypes-all-indians-hate-49964)
+- 
