@@ -5,3 +5,4 @@
 - [De onde vem o mito de que a Índia é um país vegetariano](https://www.bbc.com/portuguese/internacional-43646680)
 - [O que o yoga tem a ver com o avanço da extrema direita na Índia?](https://www.brasildefato.com.br/2020/06/21/o-que-o-yoga-tem-a-ver-com-o-avanco-da-extrema-direita-na-india)
 - [What are Common Stereotypes About India?](https://www.commisceo-global.com/blog/what-are-common-stereotypes-about-india)
+- [https://edtimes.in/india-has-70-non-vegetarian-population-but-is-considered-vegetarian-why/}
