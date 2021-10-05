@@ -20,7 +20,7 @@
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
   - [Baixaria](http://g1.globo.com/ac/acre/noticia/2013/03/aprenda-fazer-um-prato-tipico-da-culinaria-acreana-baixaria.html)  
   - [caminhos do acre](caminhosdoacre-web.pdf)
-  - [Plano Desenvolvimento -Turismo Sustentavel Acre] (https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/P06%20-%20Plano%20Desenvolvimento%20-Turismo%20Sustentavel%20Acre2015-2020.pdf)
+  - [Plano Desenvolvimento -Turismo Sustentavel Acre](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/P06%20-%20Plano%20Desenvolvimento%20-Turismo%20Sustentavel%20Acre2015-2020.pdf)
 
 - [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
 
