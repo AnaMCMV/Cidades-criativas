@@ -1,0 +1,8 @@
+- [Os estereótipos nos filmes de Hollywood e por que eles distorcem a visão real do mundo](https://rollingstone.uol.com.br/noticia/os-estereotipos-nos-filmes-de-hollywood-e-por-que-eles-distorcem-visao-real-do-mundo-analise/)
+- [Minha experiência na Índia: estereótipos x realidade](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-na-%C3%ADndia-estere%C3%B3tipos-x-realidade-felipe/?originalSubdomain=pt)
+- [10 Estereótipos que todos indianos odeiam](https://por.worldtourismgroup.com/10-stereotypes-all-indians-hate-49964)
+- [16 Curiosidades sobre a Índia](https://incrivel.club/admiracao-curiosidades/16-interessantes-dados-sobre-a-india-550060/)
+- [De onde vem o mito de que a Índia é um país vegetariano](https://www.bbc.com/portuguese/internacional-43646680)
+- [O que o yoga tem a ver com o avanço da extrema direita na Índia?](https://www.brasildefato.com.br/2020/06/21/o-que-o-yoga-tem-a-ver-com-o-avanco-da-extrema-direita-na-india)
+- [What are Common Stereotypes About India?](https://www.commisceo-global.com/blog/what-are-common-stereotypes-about-india)
+- [https://edtimes.in/india-has-70-non-vegetarian-population-but-is-considered-vegetarian-why/}
