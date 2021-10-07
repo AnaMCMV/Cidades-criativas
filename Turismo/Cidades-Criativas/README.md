@@ -23,7 +23,8 @@
   - [Plano Desenvolvimento -Turismo Sustentavel Acre](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/P06%20-%20Plano%20Desenvolvimento%20-Turismo%20Sustentavel%20Acre2015-2020.pdf)
   - [A identidade da cultura gastronômica acreana](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/A%20identidade%20da%20cultura%20gastron%C3%B4mica%20acreana.pdf)
   - [CIDADES DO ACRE: AS CIDADES TURÍSTICAS QUE VOCÊ DEVE CONHECER](https://ficaativoeviaja.com.br/cidades-do-acre/#Rio_Branco)
-  - Culinária de Roraima
+  
+ - Culinária de Roraima
    - [Safari Gastrônomico](https://roraimaadventures.com.br/produto/safari-gastronomico/) 
 
 - [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
