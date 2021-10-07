@@ -27,7 +27,7 @@
  - Culinária de Roraima
    - [Safari Gastrônomico](https://roraimaadventures.com.br/produto/safari-gastronomico/) 
 
-= Culinária do Macapá
+- Culinária do Macapá
  -[Festival gastronômico on-line oferta pratos de mais de 50 empresas de Macapá e Santana](https://g1.globo.com/ap/amapa/noticia/2020/12/13/festival-gastronomico-on-line-oferta-pratos-de-mais-de-50-empresas-de-macapa-e-santana.ghtml)
  
 
