@@ -28,7 +28,9 @@
    - [Safari Gastrônomico](https://roraimaadventures.com.br/produto/safari-gastronomico/) 
 
 - Culinária do Macapá
+
  -[Festival gastronômico on-line oferta pratos de mais de 50 empresas de Macapá e Santana](https://g1.globo.com/ap/amapa/noticia/2020/12/13/festival-gastronomico-on-line-oferta-pratos-de-mais-de-50-empresas-de-macapa-e-santana.ghtml)
+ 
  -[Feiras de Macapá reforçam oferta de produtos para o almoço do Círio, mas procura ainda é baixa](https://g1.globo.com/ap/amapa/noticia/2019/10/10/feiras-de-macapa-reforcam-oferta-de-produtos-para-o-almoco-do-cirio-mas-procura-ainda-e-baixa.ghtml)
 
 - [Dossês cidades criativas brasileiras](http://observagastronomia.com.br/dossies-de-candidaturas/)
