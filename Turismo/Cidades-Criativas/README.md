@@ -36,6 +36,7 @@
 Estado do Amapá com base nos instrumentos políticos 
 proposto por Bramwell](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/A%20elabora%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20p%C3%BAblicas%20de%20turismo%20do.pdf)
   -  [Culinária do meio do mundo](https://cet.unb.br/index.php?option=com_content&view=article&id=154:culinaria-do-meio-do-mundo&catid=34)
+  -  [Brasil Sabor no Amapá terá feirinha de artesanato voltada para a gastronomia](https://abrasel.com.br/noticias/noticias/brasil-sabor-no-amapa-tera-feirinha-de-artesanato-voltada-para-a-gastronomia/)
 
 - [Dossês cidades criativas brasileiras](http://observagastronomia.com.br/dossies-de-candidaturas/)
 
