@@ -27,6 +27,10 @@
  - Culinária de Roraima
    - [Safari Gastrônomico](https://roraimaadventures.com.br/produto/safari-gastronomico/) 
 
+= Culinária do Macapá
+ -[Festival gastronômico on-line oferta pratos de mais de 50 empresas de Macapá e Santana](https://g1.globo.com/ap/amapa/noticia/2020/12/13/festival-gastronomico-on-line-oferta-pratos-de-mais-de-50-empresas-de-macapa-e-santana.ghtml)
+ 
+
 - [Dossês cidades criativas brasileiras](http://observagastronomia.com.br/dossies-de-candidaturas/)
 
 - [Paraty como cidade criativa](https://www.paraty.rj.gov.br/paraty-cidade-gastronomica)
