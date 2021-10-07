@@ -32,6 +32,10 @@
   - [Festival gastronômico on-line oferta pratos de mais de 50 empresas de Macapá e Santana](https://g1.globo.com/ap/amapa/noticia/2020/12/13/festival-gastronomico-on-line-oferta-pratos-de-mais-de-50-empresas-de-macapa-e-santana.ghtml)
  
   - [Feiras de Macapá reforçam oferta de produtos para o almoço do Círio, mas procura ainda é baixa](https://g1.globo.com/ap/amapa/noticia/2019/10/10/feiras-de-macapa-reforcam-oferta-de-produtos-para-o-almoco-do-cirio-mas-procura-ainda-e-baixa.ghtml)
+ -  [A elaboração das políticas públicas de turismo do 
+Estado do Amapá com base nos instrumentos políticos 
+proposto por Bramwell](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/A%20elabora%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20p%C3%BAblicas%20de%20turismo%20do.pdf)
+
 
 - [Dossês cidades criativas brasileiras](http://observagastronomia.com.br/dossies-de-candidaturas/)
 
