@@ -22,8 +22,22 @@
   - [caminhos do acre](caminhosdoacre-web.pdf)
   - [Plano Desenvolvimento -Turismo Sustentavel Acre](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/P06%20-%20Plano%20Desenvolvimento%20-Turismo%20Sustentavel%20Acre2015-2020.pdf)
   - [A identidade da cultura gastronômica acreana](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/A%20identidade%20da%20cultura%20gastron%C3%B4mica%20acreana.pdf)
+  - [CIDADES DO ACRE: AS CIDADES TURÍSTICAS QUE VOCÊ DEVE CONHECER](https://ficaativoeviaja.com.br/cidades-do-acre/#Rio_Branco)
+  
+ - Culinária de Roraima
+   - [Safari Gastrônomico](https://roraimaadventures.com.br/produto/safari-gastronomico/) 
 
-- [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
+- Culinária do Macapá
+
+  - [Festival gastronômico on-line oferta pratos de mais de 50 empresas de Macapá e Santana](https://g1.globo.com/ap/amapa/noticia/2020/12/13/festival-gastronomico-on-line-oferta-pratos-de-mais-de-50-empresas-de-macapa-e-santana.ghtml)
+ 
+  - [Feiras de Macapá reforçam oferta de produtos para o almoço do Círio, mas procura ainda é baixa](https://g1.globo.com/ap/amapa/noticia/2019/10/10/feiras-de-macapa-reforcam-oferta-de-produtos-para-o-almoco-do-cirio-mas-procura-ainda-e-baixa.ghtml)
+  -  [A elaboração das políticas públicas de turismo do 
+Estado do Amapá com base nos instrumentos políticos 
+proposto por Bramwell](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/A%20elabora%C3%A7%C3%A3o%20das%20pol%C3%ADticas%20p%C3%BAblicas%20de%20turismo%20do.pdf)
+  -  [Culinária do meio do mundo](https://cet.unb.br/index.php?option=com_content&view=article&id=154:culinaria-do-meio-do-mundo&catid=34)
+  -  [Brasil Sabor no Amapá terá feirinha de artesanato voltada para a gastronomia](https://abrasel.com.br/noticias/noticias/brasil-sabor-no-amapa-tera-feirinha-de-artesanato-voltada-para-a-gastronomia/)
+  -  [Macapá 262 anos: mistura de influências e temperos marcam culinária amapaense](https://macapa.ap.gov.br/macapa-262-anos-mistura-de-influencias-e-temperos-marcam-culinaria-amapaense/)
 
 - [Dossês cidades criativas brasileiras](http://observagastronomia.com.br/dossies-de-candidaturas/)
 
@@ -32,3 +46,4 @@
 - [Textos que podem ser úteis](http://observagastronomia.com.br/publicacoes/academicas/)
 - [Dissertação que conceitua a rede das cidades criativas](https://repositorio.bc.ufg.br/tede/bitstream/tede/7795/5/Disserta%C3%A7%C3%A3o%20-%20Victor%20Moura%20Soares%20Ferreira%20-%202017.pdf)
 - [Cidades criativas vocação e desenvolvimento](https://www.feevale.br/Comum/midias/b8f7d75d-202c-48ab-9330-6b941321df51/E-BOOK%20Cidades%20Criativas.pdf)
+- [Culinária Juçareira](https://issuu.com/ubalab/docs/culinariajucareira)
