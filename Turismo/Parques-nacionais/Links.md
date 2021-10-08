@@ -36,7 +36,7 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 - [Gestão do Uso Público em Unidade de Conservação: a visitação no Parque Nacional da Tijuca - RJ](https://periodicos.unifesp.br/index.php/ecoturismo/article/view/5860)
 
 
--[Parcerias público-privadas na gestão dos serviços turísticos em parques nacionais: possibilidades para o Parque Nacional da Chapada dos Guimarães-MT](https://siaiap39.univali.br/repositorio/handle/repositorio/1323)
+- [Parcerias público-privadas na gestão dos serviços turísticos em parques nacionais: possibilidades para o Parque Nacional da Chapada dos Guimarães-MT](https://siaiap39.univali.br/repositorio/handle/repositorio/1323)
 
 
 - [Degradação de trilhas na Reserva Ecológica da Juatinga em Paraty - Rio de Janeiro](https://www.scielo.br/j/ambiagua/a/58ZZZcTnb4MQ46mPrC8gCnw/abstract/?lang=pt)
@@ -56,7 +56,7 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 
 
-- [Autora que tem várias produções úteis](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=C17E17802415A5F78A9E1CED2990B557.buscatextual_66)
-- [Essa daqui também](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+ - [Autora que tem várias produções úteis](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=C17E17802415A5F78A9E1CED2990B557.buscatextual_66)
+ - [Essa daqui também](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
 
 
