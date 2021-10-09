@@ -41,8 +41,7 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 - [Degradação de trilhas na Reserva Ecológica da Juatinga em Paraty - Rio de Janeiro](https://www.scielo.br/j/ambiagua/a/58ZZZcTnb4MQ46mPrC8gCnw/abstract/?lang=pt)
 
-- [AS CONTRIBUIÇÕES DA MUSEOLOGIA PARA 
-A PRESERVAÇÃO E MUSEALIZAÇÃO DO Parque nacional da Tijuca](http://www.unirio.br/ppg-pmus/copy_of_elisama_beliani.pdf)
+- [AS CONTRIBUIÇÕES DA MUSEOLOGIA PARA A PRESERVAÇÃO E MUSEALIZAÇÃO DO Parque nacional da Tijuca](http://www.unirio.br/ppg-pmus/copy_of_elisama_beliani.pdf)
 
 
 
