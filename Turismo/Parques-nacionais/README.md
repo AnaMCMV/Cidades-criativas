@@ -43,7 +43,7 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 - [AS CONTRIBUIÇÕES DA MUSEOLOGIA PARA A PRESERVAÇÃO E MUSEALIZAÇÃO DO Parque nacional da Tijuca](http://www.unirio.br/ppg-pmus/copy_of_elisama_beliani.pdf)
 
--[Equipamentos para uma ambiência de lazer e de turismo em unidades de conservação - Parque Nacional da Serra dos Órgãos](https://www.icmbio.gov.br/parnaserradosorgaos/images/stories/Figueiredo_2007.pdf)
+- [Equipamentos para uma ambiência de lazer e de turismo em unidades de conservação - Parque Nacional da Serra dos Órgãos](https://www.icmbio.gov.br/parnaserradosorgaos/images/stories/Figueiredo_2007.pdf)
 
 - [Da ciência ao manejo: o conhecimento científico e a gestão da pesquisa no Parque Nacional da Serra dos Órgãos](https://www.icmbio.gov.br/parnaserradosorgaos/images/stories/Viveiros_de_Castro__Cronemberger_2007.pdf)
 
