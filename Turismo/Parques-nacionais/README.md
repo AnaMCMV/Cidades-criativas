@@ -47,7 +47,13 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 - [Da ciência ao manejo: o conhecimento científico e a gestão da pesquisa no Parque Nacional da Serra dos Órgãos](https://www.icmbio.gov.br/parnaserradosorgaos/images/stories/Viveiros_de_Castro__Cronemberger_2007.pdf)
 
+-[Roteiro Geoturístico da trilha para a Pedra do Sino (PARNASO, RJ)](https://periodicos.unifesp.br/index.php/ecoturismo/article/view/10586)
 
+=[GEODIVERSIDADE E SERVIÇOS ECOSSISTÊMICOS EM TRILHAS DE MONTANHA NA TRAVESSIA PETRÓPOLIS – TERESÓPOLIS (PARQUE NACIONAL DA SERRA DOS ÓRGÃOS, RJ)](https://www.researchgate.net/profile/Fernando-Pessoa/publication/341915203_GEODIVERSIDADE_E_SERVICOS_ECOSSISTEMICOS_EM_TRILHAS_DE_MONTANHA_NA_TRAVESSIA_PETROPOLIS_-TERESOPOLIS_PARQUE_NACIONAL_DA_SERRA_DOS_ORGAOS_RJ/links/5ed97a0a458515294536ee9f/GEODIVERSIDADE-E-SERVICOS-ECOSSISTEMICOS-EM-TRILHAS-DE-MONTANHA-NA-TRAVESSIA-PETROPOLIS-TERESOPOLIS-PARQUE-NACIONAL-DA-SERRA-DOS-ORGAOS-RJ.pdf)
+
+-[PERFIL DO VISITANTE DO PARQUE NACIONAL DA SERRA DOS ÓRGÃOS ](http://www.physis.org.br/ecouc/Artigos/Artigo48.pdf)
+
+- [Identificação de Unidades de Paisagem e sua Implicação para o Ecoturismo no Parque Nacional da Serra dos Órgãos, Rio De Janeiro.](http://lsie.unb.br/rbg/index.php/rbg/article/view/88)
 
 
 
