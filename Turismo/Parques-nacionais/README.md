@@ -53,12 +53,4 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 - [Conflitos na gestão do Parque Nacional da Serra da Bocaina: entraves ao desenvolvimento local na vila de Trindade (Paraty, RJ)](https://www.scielo.br/j/inter/a/FY4ypZDXJXMs3hLWTdyxW3M/?lang=pt&format=html)
 
-
-
-
-
-
- - [Autora que tem várias produções úteis](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=C17E17802415A5F78A9E1CED2990B557.buscatextual_66)
- - [Essa daqui também](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
-
-
+- [Encontro de Educação Ambiental da Serra dos Órgãos](https://www.gov.br/icmbio/pt-br/assuntos/pesquisa/seminarios-de-pesquisa/DCOM_anais_13_pesquisa_Parna_Serra_dos_Orgaos.pdf)
