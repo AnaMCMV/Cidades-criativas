@@ -16,7 +16,7 @@
 - [Turismo Gastronômico na Região Norte](https://www.fazfacil.com.br/lazer/turismo-gastronomico-norte/)
 
 - [Festival de Parintins](https://www.festivaldeparintins.com.br/blog/gastronomia/)
-  -[Test] 
+  -Test
 
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
   - [Baixaria](http://g1.globo.com/ac/acre/noticia/2013/03/aprenda-fazer-um-prato-tipico-da-culinaria-acreana-baixaria.html)  
