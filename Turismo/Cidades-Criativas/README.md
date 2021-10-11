@@ -17,6 +17,7 @@
 
 - [Festival de Parintins](https://www.festivaldeparintins.com.br/blog/gastronomia/)
   -Test
+  - [Ópera na Floresta](https://www.almadeviajante.com/festival-folclorico-de-parintins/) 
 
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
   - [Baixaria](http://g1.globo.com/ac/acre/noticia/2013/03/aprenda-fazer-um-prato-tipico-da-culinaria-acreana-baixaria.html)  
