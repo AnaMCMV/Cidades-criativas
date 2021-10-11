@@ -31,3 +31,6 @@
 - [Textos que podem ser úteis](http://observagastronomia.com.br/publicacoes/academicas/)
 - [Dissertação que conceitua a rede das cidades criativas](https://repositorio.bc.ufg.br/tede/bitstream/tede/7795/5/Disserta%C3%A7%C3%A3o%20-%20Victor%20Moura%20Soares%20Ferreira%20-%202017.pdf)
 - [Cidades criativas vocação e desenvolvimento](https://www.feevale.br/Comum/midias/b8f7d75d-202c-48ab-9330-6b941321df51/E-BOOK%20Cidades%20Criativas.pdf)
+
+
+Estoy aqui 
