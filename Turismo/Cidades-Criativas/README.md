@@ -15,7 +15,7 @@
 
 - [Turismo Gastronômico na Região Norte](https://www.fazfacil.com.br/lazer/turismo-gastronomico-norte/)
 
-- [Festivl de Parintins](https://www.festivaldeparintins.com.br/blog/gastronomia/)
+- [Festival de Parintins](https://www.festivaldeparintins.com.br/blog/gastronomia/)
   -  [Ópera na Floresta](https://www.almadeviajante.com/festival-folclorico-de-parintins/)  
   
   -  [Festival Folclórico de Parintins](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/Festival%20Folcl%C3%B3rico%20de%20Parintins.pdf)
