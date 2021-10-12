@@ -17,7 +17,9 @@
 
 - [Festivl de Parintins](https://www.festivaldeparintins.com.br/blog/gastronomia/)
   -  [Ópera na Floresta](https://www.almadeviajante.com/festival-folclorico-de-parintins/)  
+  
   -  [Festival Folclórico de Parintins](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/Festival%20Folcl%C3%B3rico%20de%20Parintins.pdf)
+  
   -  [Bois-bumbás de Parintins: síntese metafórica da realidade?*(https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/download%20(1).pdf)
   -  
 
