@@ -21,8 +21,8 @@
   -  [Festival Folclórico de Parintins](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/Festival%20Folcl%C3%B3rico%20de%20Parintins.pdf)
   
   -  [Bois-bumbás de Parintins: síntese metafórica da realidade?](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/download%20(1).pdf)
-  -  
-
+ 
+ 
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
   - [Baixaria](http://g1.globo.com/ac/acre/noticia/2013/03/aprenda-fazer-um-prato-tipico-da-culinaria-acreana-baixaria.html)  
   - [caminhos do acre](caminhosdoacre-web.pdf)
