@@ -62,3 +62,8 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 - [Conflitos na gestão do Parque Nacional da Serra da Bocaina: entraves ao desenvolvimento local na vila de Trindade (Paraty, RJ)](https://www.scielo.br/j/inter/a/FY4ypZDXJXMs3hLWTdyxW3M/?lang=pt&format=html)
 
 - [Encontro de Educação Ambiental da Serra dos Órgãos](https://www.gov.br/icmbio/pt-br/assuntos/pesquisa/seminarios-de-pesquisa/DCOM_anais_13_pesquisa_Parna_Serra_dos_Orgaos.pdf)
+
+- [SUSTENTABILIDADE DAS CONCESSÕES EM UNIDADES DE CONSERVAÇÃO: CONTRIBUIÇÕES A PARTIR DA EXPERIÊNCIA DO PARQUE NACIONAL DA SERRA DOS ÓRGÃOS](https://www.unifeso.edu.br/revista/index.php/jopic/article/viewFile/906/524)
+
+-  [Parques Nacionais, turismo e governança: Reflexões acerca das concessões dos serviços turísticos no Brasil](https://observatoriodoturismo.es.gov.br/Media/observatorio/Publicacoes/Outras/Artigos/2119-Texto%20do%20artigo-10543-2-10-20210602.pdf)
+-  [Natureza protegida e seus protetores: conflitos sobre os usos de um espaço público1](http://evento.abant.org.br/rba/30rba/files/867_2017-02-15.pdf)
