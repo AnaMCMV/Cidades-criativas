@@ -24,6 +24,8 @@
   -  [Mercado de Parintins, um recanto de saberes e sabores das ilhas Tupinambarana](https://www.amazonasemais.com.br/parintins/mercado-de-parintins-um-recanto-de-saberes-e-sabores/)
   -  [Uma volta ao Mercado Municipal de Parintins](https://www.festivaldeparintins.com.br/mercado-municipal-de-parintins/)
   -  [Terra dos Bumbás tem deliciosa e variada culinária. Saiba onde comer em Parintins](https://www.amazonasemais.com.br/gastronomia/terra-dos-bumbas-tem-deliciosa-e-variada-culinaria-saiba-onde-comer-em-parintins/)
+  -  [MEMÓRIAS DOS CINEMAS EM PARINTINS-AM ENTRE AS DÉCADAS DE 
+1960 E 1980.](https://www.norte2015.historiaoral.org.br/resources/anais/12/1444875470_ARQUIVO_artigoparasemanadeHistoriaoficial2015.pdf)
  
  
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
