@@ -21,6 +21,9 @@
   -  [Festival Folclórico de Parintins](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/Festival%20Folcl%C3%B3rico%20de%20Parintins.pdf)
   
   -  [Bois-bumbás de Parintins: síntese metafórica da realidade?](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/Cidades-Criativas/download%20(1).pdf)
+  -  [Mercado de Parintins, um recanto de saberes e sabores das ilhas Tupinambarana](https://www.amazonasemais.com.br/parintins/mercado-de-parintins-um-recanto-de-saberes-e-sabores/)
+  -  [Uma volta ao Mercado Municipal de Parintins](https://www.festivaldeparintins.com.br/mercado-municipal-de-parintins/)
+  -  [Terra dos Bumbás tem deliciosa e variada culinária. Saiba onde comer em Parintins](https://www.amazonasemais.com.br/gastronomia/terra-dos-bumbas-tem-deliciosa-e-variada-culinaria-saiba-onde-comer-em-parintins/)
  
  
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
