@@ -70,4 +70,4 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 -  [ANÁLISE AMBIENTAL DE CAPACIDADE DE CARGA ANTRÓPICA NO ROTEIRO TRAVESSIA PETRÓPOLIS X TERESÓPOLIS NO PARQUE NACIONAL DA SERRA DOS ÓRGÃOS, RJ](https://www.ufjf.br/analiseambiental/files/2009/11/TCC-2.pdf)
 
 - [História do PARNASO](https://www.icmbio.gov.br/parnaserradosorgaos/quem-somos/historia.html)
-- [Dedo de Deus](https://www.icmbio.gov.br/parnaserradosorgaos/destaques/78-um-seculo-de-escaladas-ao-dedo-de-deus6.html)
+
