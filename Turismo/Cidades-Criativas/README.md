@@ -27,6 +27,7 @@
   -  [MEMÓRIAS DOS CINEMAS EM PARINTINS-AM ENTRE AS DÉCADAS DE 
 1960 E 1980.](https://www.norte2015.historiaoral.org.br/resources/anais/12/1444875470_ARQUIVO_artigoparasemanadeHistoriaoficial2015.pdf)
  -   [NARRATIVAS CAPITALISTAS EM PARINTINS (AM): BIOGRAFIAS, CINEMAS, PERFUMES E ETNOCÍDIOS](https://www.revistas.uneb.br/index.php/rbpab/article/view/12705/8565)
+ -   [SOCIABILIDADE, COTIDIANO E IDENTIDADE: UM ESTUDO SOBRE O BAIRRO DA FRANCESA NO MUNICÍPIO DE PARINTINS (AM)](http://repositorioinstitucional.uea.edu.br/bitstream/riuea/1431/1/Sociabilidade%2C%20cotidiano%20e%20identidade%20um%20estudo%20sobre%20o%20bairro%20da%20Francesa%20no%20munic%C3%ADpio%20de%20Parintins%20%28AM%29.pdf)
  
  
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
