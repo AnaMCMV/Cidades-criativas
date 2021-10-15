@@ -26,7 +26,7 @@
   -  [Terra dos Bumbás tem deliciosa e variada culinária. Saiba onde comer em Parintins](https://www.amazonasemais.com.br/gastronomia/terra-dos-bumbas-tem-deliciosa-e-variada-culinaria-saiba-onde-comer-em-parintins/)
   -  [MEMÓRIAS DOS CINEMAS EM PARINTINS-AM ENTRE AS DÉCADAS DE 
 1960 E 1980.](https://www.norte2015.historiaoral.org.br/resources/anais/12/1444875470_ARQUIVO_artigoparasemanadeHistoriaoficial2015.pdf)
--   [NARRATIVAS CAPITALISTAS EM PARINTINS (AM): BIOGRAFIAS, CINEMAS, PERFUMES E ETNOCÍDIOS](https://www.revistas.uneb.br/index.php/rbpab/article/view/12705/8565)
+ -   [NARRATIVAS CAPITALISTAS EM PARINTINS (AM): BIOGRAFIAS, CINEMAS, PERFUMES E ETNOCÍDIOS](https://www.revistas.uneb.br/index.php/rbpab/article/view/12705/8565)
  
  
 - [Culinária do Acre](https://todosdestinos.com/norte/acre/culinaria-do-acre-reune-delicias-de-outros-estados/)
