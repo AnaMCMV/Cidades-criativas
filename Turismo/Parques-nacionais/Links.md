@@ -31,7 +31,7 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 - [Desafios e Oportunidades da Integração do Parque Nacional da Serra dos Órgãos com as comunidades do entorno](https://tede.ufrrj.br/jspui/bitstream/jspui/3674/2/2012%20-%20Hamilton%20Francisco%20de%20Souza%20Filho.pdf)
 
-- [Interpretar a PaisagemProposta de um Centro Interpretativo para a Sede de Petrópolis do Parque Nacional da Serra dos Órgãos](https://repositorio-aberto.up.pt/bitstream/10216/117510/2/302829.pdf)
+- [Interpretar a Paisagem Proposta de um Centro Interpretativo para a Sede de Petrópolis do Parque Nacional da Serra dos Órgãos](https://repositorio-aberto.up.pt/bitstream/10216/117510/2/302829.pdf)
 
 - [Gestão do Uso Público em Unidade de Conservação: a visitação no Parque Nacional da Tijuca - RJ](https://periodicos.unifesp.br/index.php/ecoturismo/article/view/5860)
 
@@ -40,14 +40,6 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
 
 - [Degradação de trilhas na Reserva Ecológica da Juatinga em Paraty - Rio de Janeiro](https://www.scielo.br/j/ambiagua/a/58ZZZcTnb4MQ46mPrC8gCnw/abstract/?lang=pt)
-
-
-
-
-
-
-
-
 
 - [Conflitos na gestão do Parque Nacional da Serra da Bocaina: entraves ao desenvolvimento local na vila de Trindade (Paraty, RJ)](https://www.scielo.br/j/inter/a/FY4ypZDXJXMs3hLWTdyxW3M/?lang=pt&format=html)
 
@@ -58,5 +50,4 @@ Criação, Gestão e Uso Público em Unidades de Conservação ](https://www.ie.
 
  - [Autora que tem várias produções úteis](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=C17E17802415A5F78A9E1CED2990B557.buscatextual_66)
  - [Essa daqui também](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
-
 
