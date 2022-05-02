@@ -12,7 +12,9 @@
   -[3°período]()
   -[4°período]()
   -[5°período]()
+  
   -[6°período](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/6%20PER%C3%8DODO)
+  
   -[7°período]()
   -[8°período]()
   -[Eletivas]()
