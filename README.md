@@ -10,6 +10,7 @@
 - [Espanhol](Turismo/Espanhol/)
 - [Estereótipos Indianos](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Estere%C3%B3tipos-Indianos)
 - [Expedições CEFET](Turismo/Expedições-CEFET/)
+- [Empreendedorismo](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Epreendedorismo)
 - [Geografia e Cartografia](Turismo/Gegrafia-e-cartografia/)
 - [Gestão de bares e restaurantes](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Gestão-de-bares-e-restaurantes)
 - [História da Arte](Turismo/História-da-arte/)
@@ -23,5 +24,7 @@
 - [Transportes](Turismo/Transportes/)
 - [Turismo No Meio Rural](Turismo/Turismo-no-meio-rural/)
 
+
+-[8°PERÍODO](
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
