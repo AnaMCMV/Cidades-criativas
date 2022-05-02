@@ -4,6 +4,19 @@
   <img height="200px" src="https://pbs.twimg.com/profile_images/684904010323750913/6PpT2k37_400x400.jpg" alt="logo turismo cefet">
 </p>
 
+
+
+
+  -[1°período]()
+  -[2°período]()
+  -[3°período]()
+  -[4°período]()
+  -[5°período]()
+  -[6°período](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/6%20PER%C3%8DODO)
+  -[7°período]()
+  -[8°período]()
+  -[Eletivas]()
+
 - [Antropologia e Cultura](Turismo/Antropologia-e-cultura/)
 - [Cerimonial Protocolo e Eventos](Turismo/Cerimonial-protocolo-e-eventos/)
 - [Cidades Criativas](Turismo/Cidades-Criativas/)
