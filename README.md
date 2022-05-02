@@ -40,6 +40,6 @@
 - [Turismo No Meio Rural](Turismo/Turismo-no-meio-rural/)
 
 
--[8°PERÍODO](
+
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
