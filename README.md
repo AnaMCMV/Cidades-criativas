@@ -7,17 +7,17 @@
 
 
 
-  -[1°período]()
-  -[2°período]()
-  -[3°período]()
-  -[4°período]()
-  -[5°período]()
+  - [1°período]()
+  - [2°período]()
+  - [3°período]()
+  - [4°período]()
+  - [5°período]()
   
-  -[6°período](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/6%20PER%C3%8DODO)
+  - [6°período](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/6%20PER%C3%8DODO)
   
-  -[7°período]()
-  -[8°período]()
-  -[Eletivas]()
+  - [7°período]()
+  - [8°período]()
+  - [Eletivas]()
 
 - [Antropologia e Cultura](Turismo/Antropologia-e-cultura/)
 - [Cerimonial Protocolo e Eventos](Turismo/Cerimonial-protocolo-e-eventos/)
