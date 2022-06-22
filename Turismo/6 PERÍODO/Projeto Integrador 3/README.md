@@ -21,13 +21,13 @@
 
       Leis importantes
 
-Portaria Nº 426, de 11 de maio de 2020
-LEI No 9.985, DE 18 DE JULHO DE 2000.
-projeto legislativo  2399/2021
-decreto 129/22
-Decreto nº 448, de 14 de fevereiro de 1992
+-Portaria Nº 426, de 11 de maio de 2020
+-LEI No 9.985, DE 18 DE JULHO DE 2000.
+-projeto legislativo  2399/2021
+-decreto 129/22
+-Decreto nº 448, de 14 de fevereiro de 1992
 
-
+     Textos sobre direito ambiental
 
 
 
