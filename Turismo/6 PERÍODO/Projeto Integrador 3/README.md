@@ -21,11 +21,11 @@
 
       Leis importantes
 
--Portaria Nº 426, de 11 de maio de 2020
+- [Portaria Nº 426, de 11 de maio de 2020](https://www.in.gov.br/en/web/dou/-/portaria-n-426-de-11-de-maio-de-2020-256529597) (Criação NGI Terê)
 
--LEI No 9.985, DE 18 DE JULHO DE 2000.
+- [LéI No 9.985, DE 18 DE JULHO DE 2000](http://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=LEI%20No%209.985%2C%20DE%2018%20DE%20JULHO%20DE%202000.&text=Regulamenta%20o%20art.,Natureza%20e%20d%C3%A1%20outras%20provid%C3%AAncias.) (SNUC)
 
--projeto legislativo  2399/2021
+-Projeto legislativo  2399/2021
 
 -decreto 129/22
 
