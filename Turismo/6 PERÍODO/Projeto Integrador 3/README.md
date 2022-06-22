@@ -25,7 +25,7 @@
 
 - [LéI No 9.985, DE 18 DE JULHO DE 2000](http://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=LEI%20No%209.985%2C%20DE%2018%20DE%20JULHO%20DE%202000.&text=Regulamenta%20o%20art.,Natureza%20e%20d%C3%A1%20outras%20provid%C3%AAncias.) (SNUC)
 
-- [Decreto nº 448, de 14 de fevereiro de 1992](
+- Decreto nº 448, de 14 de fevereiro de 1992
 
 - [Projeto legislativo  2399/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148971) (Torna Teresópolis a capital nacional do montanhismo)
 
@@ -33,8 +33,8 @@
 
 
 
-
-     Textos sobre direito ambiental
+ 
+      Textos sobre direito ambiental
 
 * [Reflexões sobre direito ambiental e sustentabilidade](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/Reflexoes_sobre_direito_ambiental_e_sust.pdf)
 
@@ -60,7 +60,7 @@
 * [Apa Petrópolis]()  (Sumiu da internet)
 
 * [APA Guapimirim](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
-* 
+
 
      Informação extra
      
