@@ -24,12 +24,12 @@
 - [Portaria Nº 426, de 11 de maio de 2020](https://www.in.gov.br/en/web/dou/-/portaria-n-426-de-11-de-maio-de-2020-256529597) (Criação NGI Terê)
 
 - [LéI No 9.985, DE 18 DE JULHO DE 2000](http://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=LEI%20No%209.985%2C%20DE%2018%20DE%20JULHO%20DE%202000.&text=Regulamenta%20o%20art.,Natureza%20e%20d%C3%A1%20outras%20provid%C3%AAncias.) (SNUC)
-- 
+
 -[Decreto nº 448, de 14 de fevereiro de 1992](
 
-- [Projeto legislativo  2399/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148971) (Torna Teresópolis a capital nacional do montanhismo)
+-[Projeto legislativo  2399/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148971) (Torna Teresópolis a capital nacional do montanhismo)
 
--[Decreto 129/22]( ) (Torna montanhismo patrimônio petropolitano)
+-[Decreto 129/22]( https://www.petropolis.rj.gov.br/pmp/index.php/imprensa/noticias/item/19245-prefeitura-torna-montanhismo-patrim%C3%B4nio-municipal ) (Torna o montanhismo patrimônio petropolitano)
 
 
 
