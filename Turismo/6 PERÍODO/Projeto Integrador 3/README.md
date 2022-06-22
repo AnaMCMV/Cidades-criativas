@@ -55,6 +55,10 @@
 
 *[Esec Guanabara]()
 
-*[Apa Petrópolis](Sumiu da internet)
+*[Apa Petrópolis]  (Sumiu da internet)
 
 *[APA Guapimirim]()
+
+     Informação extra
+     
+     -https://www.terrabrasilis.org.br/ecotecadigital/index.php/estantes/planos-manejo
