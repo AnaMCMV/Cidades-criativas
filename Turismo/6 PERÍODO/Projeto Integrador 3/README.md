@@ -34,9 +34,11 @@
 
      Textos sobre direito ambiental
 
-*[Reflexões sobre direito ambiental e sustentabilidade](
-*[Proteção jurídica ao meio ambiente e o turismo no Brasil](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/TEXTO%2020%20-%20Prote%C3%A7%C3%A3o%20jur%C3%ADdica%20ao%20meio%20ambiente%20e%20o%20turismo%20no%20Brasil.pdf)
-*[ Reflexões sobre as relações entre direito ambiental](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/TEXTO%2021%20-%20Reflex%C3%B5es%20sobre%20as%20rela%C3%A7%C3%B5es%20entre%20direito%20ambiental.pdf)
+* [Reflexões sobre direito ambiental e sustentabilidade](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/Reflexoes_sobre_direito_ambiental_e_sust.pdf)
+
+* [Proteção jurídica ao meio ambiente e o turismo no Brasil](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/TEXTO%2020%20-%20Prote%C3%A7%C3%A3o%20jur%C3%ADdica%20ao%20meio%20ambiente%20e%20o%20turismo%20no%20Brasil.pdf)
+
+* [ Reflexões sobre as relações entre direito ambiental](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/TEXTO%2021%20-%20Reflex%C3%B5es%20sobre%20as%20rela%C3%A7%C3%B5es%20entre%20direito%20ambiental.pdf)
 
 
       Específicos das Unidades de conservação
