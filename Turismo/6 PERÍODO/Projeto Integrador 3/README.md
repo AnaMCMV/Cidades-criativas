@@ -21,7 +21,11 @@
 
       Leis importantes
 
-
+Portaria Nº 426, de 11 de maio de 2020
+LEI No 9.985, DE 18 DE JULHO DE 2000.
+projeto legislativo  2399/2021
+decreto 129/22
+Decreto nº 448, de 14 de fevereiro de 1992
 
 
 
@@ -40,7 +44,7 @@
 
 *[Rebio Tinguá](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Planos%20de%20manejo/Plano%20de%20Manejo%20Rebio%20do%20Tingu%C3%A1.pdf)
 
-*[Esec Guanabara].()
+*[Esec Guanabara]()
 
 *[Apa Petrópolis]()
 
