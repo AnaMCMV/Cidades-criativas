@@ -3,7 +3,7 @@ Livros
 
 * [Turismo e planejamento sustentável: A proteção do meio ambiente](https://plataforma.bvirtual.com.br/Leitor/Publicacao/26778/pdf/0)
 * [Turismo, meio ambiente e sustentabilidade - 1ª Edição](https://plataforma.bvirtual.com.br/Acervo/Publicacao/26815)
-* [Geoturismo, geodiversidade e geoconservação: abordagens geográficas e geológicas)(https://plataforma.bvirtual.com.br/Acervo/Publicacao/174999)
+* [Geoturismo, geodiversidade e geoconservação: abordagens geográficas e geológicas](https://plataforma.bvirtual.com.br/Acervo/Publicacao/174999)
 
 
 Outros textos
