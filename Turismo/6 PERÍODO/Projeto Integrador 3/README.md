@@ -25,11 +25,11 @@
 
 - [LéI No 9.985, DE 18 DE JULHO DE 2000](http://www.planalto.gov.br/ccivil_03/leis/l9985.htm#:~:text=LEI%20No%209.985%2C%20DE%2018%20DE%20JULHO%20DE%202000.&text=Regulamenta%20o%20art.,Natureza%20e%20d%C3%A1%20outras%20provid%C3%AAncias.) (SNUC)
 
--[Decreto nº 448, de 14 de fevereiro de 1992](
+- [Decreto nº 448, de 14 de fevereiro de 1992](
 
--[Projeto legislativo  2399/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148971) (Torna Teresópolis a capital nacional do montanhismo)
+- [Projeto legislativo  2399/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/148971) (Torna Teresópolis a capital nacional do montanhismo)
 
--[Decreto 129/22]( https://www.petropolis.rj.gov.br/pmp/index.php/imprensa/noticias/item/19245-prefeitura-torna-montanhismo-patrim%C3%B4nio-municipal ) (Torna o montanhismo patrimônio petropolitano)
+- [Decreto 129/22]( https://www.petropolis.rj.gov.br/pmp/index.php/imprensa/noticias/item/19245-prefeitura-torna-montanhismo-patrim%C3%B4nio-municipal ) (Torna o montanhismo patrimônio petropolitano)
 
 
 
@@ -51,15 +51,16 @@
       Planos de manejo
      
      
-*[Parnaso](https://www.icmbio.gov.br/parnaserradosorgaos/o-que-fazemos/gestao-e-manejo.html)     
+* [Parnaso](https://www.icmbio.gov.br/parnaserradosorgaos/o-que-fazemos/gestao-e-manejo.html)     
 
-*[Rebio Tinguá](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Planos%20de%20manejo/Plano%20de%20Manejo%20Rebio%20do%20Tingu%C3%A1.pdf)
+* [Rebio Tinguá](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Planos%20de%20manejo/Plano%20de%20Manejo%20Rebio%20do%20Tingu%C3%A1.pdf)
 
-*[Esec Guanabara](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
+* [Esec Guanabara](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
 
-*[Apa Petrópolis]()  (Sumiu da internet)
+* [Apa Petrópolis]()  (Sumiu da internet)
 
-*[APA Guapimirim](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
+* [APA Guapimirim](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
+* 
 
      Informação extra
      
