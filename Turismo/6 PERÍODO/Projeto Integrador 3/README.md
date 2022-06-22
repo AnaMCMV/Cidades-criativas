@@ -59,7 +59,7 @@
 
 
 
-     Específicos das Unidades de conservação
+       Textos específicos das Unidades de conservação
      
 
 * [Reserva ou parque? Disputas e mobilizações coletivas em torno deuma Unidade de Conservação no Tinguá, Baixada Fluminense, RJ](https://app.uff.br/riuff/bitstream/handle/1/23940/TCC%20-%20Ana%20Lucia%20Costa%20Da%20Rosa.pdf?sequence=1&isAllowed=y)
@@ -69,7 +69,7 @@
 
 
 
-       Informação extra
-     
+         Informação extra
+      
      
   -https://www.terrabrasilis.org.br/ecotecadigital/index.php/estantes/planos-manejo
