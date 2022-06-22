@@ -34,7 +34,7 @@
 
 
  
-      Textos sobre direito ambiental
+       Textos sobre direito ambiental
 
 * [Reflexões sobre direito ambiental e sustentabilidade](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/Reflexoes_sobre_direito_ambiental_e_sust.pdf)
 
@@ -44,7 +44,7 @@
 
 
      
-      Planos de manejo
+       Planos de manejo
      
      
 * [Parnaso](https://www.icmbio.gov.br/parnaserradosorgaos/o-que-fazemos/gestao-e-manejo.html)     
@@ -59,14 +59,17 @@
 
 
 
-   Específicos das Unidades de conservação
+     Específicos das Unidades de conservação
+     
 
 * [Reserva ou parque? Disputas e mobilizações coletivas em torno deuma Unidade de Conservação no Tinguá, Baixada Fluminense, RJ](https://app.uff.br/riuff/bitstream/handle/1/23940/TCC%20-%20Ana%20Lucia%20Costa%20Da%20Rosa.pdf?sequence=1&isAllowed=y)
 * [Da ciência ao manejo: o conhecimento científico e a gestão da pesquisa no Parque Nacional da Serra dos Órgãos](https://www.researchgate.net/profile/Ernesto-Viveiros-De-Castro/publication/326845581_Da_ciencia_ao_manejoo_conhecimento_cientifico_e_a_gestao_da_pesquisa_no_Parque_Nacional_da_Serra_dos_Orgaos/links/5b68fc0145851546c9f68d3e/Da-ciencia-ao-manejoo-conhecimento-cientifico-e-a-gestao-da-pesquisa-no-Parque-Nacional-da-Serra-dos-Orgaos.pdf)
 
 
 
-     Informação extra
+
+
+       Informação extra
      
      
   -https://www.terrabrasilis.org.br/ecotecadigital/index.php/estantes/planos-manejo
