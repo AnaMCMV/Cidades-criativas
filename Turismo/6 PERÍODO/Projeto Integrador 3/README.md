@@ -6,6 +6,9 @@
 * [Geoturismo, geodiversidade e geoconservação: abordagens geográficas e geológicas](https://plataforma.bvirtual.com.br/Acervo/Publicacao/174999)
 
 
+
+
+
      Outros textos
 
 
@@ -13,7 +16,12 @@
 * [Uma visão da gestão da oferta do Turismo de Natureza no Parque Nacional do Caparaó (ES/MG)](http://www.ivt.coppe.ufrj.br/caderno/index.php/caderno/article/view/1838/0)
 
 
+
+
+
      Leis importantes
+
+
 
 
 
@@ -24,3 +32,8 @@
 * [Da ciência ao manejo: o conhecimento científico e a gestão da pesquisa no Parque Nacional da Serra dos Órgãos](https://www.researchgate.net/profile/Ernesto-Viveiros-De-Castro/publication/326845581_Da_ciencia_ao_manejoo_conhecimento_cientifico_e_a_gestao_da_pesquisa_no_Parque_Nacional_da_Serra_dos_Orgaos/links/5b68fc0145851546c9f68d3e/Da-ciencia-ao-manejoo-conhecimento-cientifico-e-a-gestao-da-pesquisa-no-Parque-Nacional-da-Serra-dos-Orgaos.pdf)
 
      Planos de manejo
+*[Parnaso]()     
+*[Rebio Tinguá](Plano de Manejo Rebio do Tinguá.pdf)
+*[Esec Guanabara].()
+*[Apa Petrópolis]()
+*[APA Guapimirim]()
