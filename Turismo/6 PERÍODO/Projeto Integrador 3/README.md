@@ -22,14 +22,21 @@
       Leis importantes
 
 -Portaria Nº 426, de 11 de maio de 2020
+
 -LEI No 9.985, DE 18 DE JULHO DE 2000.
+
 -projeto legislativo  2399/2021
+
 -decreto 129/22
+
 -Decreto nº 448, de 14 de fevereiro de 1992
+
 
      Textos sobre direito ambiental
 
-
+*[Reflexões sobre direito ambiental e sustentabilidade](
+*[Proteção jurídica ao meio ambiente e o turismo no Brasil](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/TEXTO%2020%20-%20Prote%C3%A7%C3%A3o%20jur%C3%ADdica%20ao%20meio%20ambiente%20e%20o%20turismo%20no%20Brasil.pdf)
+*[ Reflexões sobre as relações entre direito ambiental](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Textos%20norteadores/TEXTO%2021%20-%20Reflex%C3%B5es%20sobre%20as%20rela%C3%A7%C3%B5es%20entre%20direito%20ambiental.pdf)
 
 
       Específicos das Unidades de conservação
