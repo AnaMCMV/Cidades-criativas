@@ -53,12 +53,13 @@
 
 *[Rebio Tinguá](https://github.com/AnaMCMV/Turismo/blob/main/Turismo/6%20PER%C3%8DODO/Projeto%20Integrador%203/Planos%20de%20manejo/Plano%20de%20Manejo%20Rebio%20do%20Tingu%C3%A1.pdf)
 
-*[Esec Guanabara]()
+*[Esec Guanabara](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
 
-*[Apa Petrópolis]  (Sumiu da internet)
+*[Apa Petrópolis]()  (Sumiu da internet)
 
-*[APA Guapimirim]()
+*[APA Guapimirim](https://www.icmbio.gov.br/apaguapimirim/planos-de-manejo)
 
      Informação extra
      
-     -https://www.terrabrasilis.org.br/ecotecadigital/index.php/estantes/planos-manejo
+     
+  -https://www.terrabrasilis.org.br/ecotecadigital/index.php/estantes/planos-manejo
