@@ -34,7 +34,6 @@
 - [Planejamento e organização do turismo](Turismo/Planejamento-e-organização-do-turismo)
 - [Planejamento Urbano](Turismo/Planejamento-urbano/)
 - [Projeto-integrador](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Projeto-integrador)
-- [Recreação](Turismo/Recreação/)
 - [Teoria Turística](Turismo/Teoria-turística/)
 - [Transportes](Turismo/Transportes/)
 - [Turismo No Meio Rural](Turismo/Turismo-no-meio-rural/)
