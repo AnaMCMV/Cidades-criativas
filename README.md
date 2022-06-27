@@ -26,8 +26,8 @@
 - [Expedições CEFET](Turismo/Expedições-CEFET/)
 
 - [Geografia e Cartografia](Turismo/Gegrafia-e-cartografia/)
-- [Gestão de bares e restaurantes](https://github.com/AnaMCMV/Turismo/tree/main/Turismo/Gestão-de-bares-e-restaurantes)
--
+
+
 - [Inglês](Turismo/Inglês/)
 - [Parques Nacionais](Turismo/Parques-nacionais/)
 - [Planejamento e organização do turismo](Turismo/Planejamento-e-organização-do-turismo)
